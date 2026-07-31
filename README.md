@@ -10,8 +10,8 @@ The huddles encountered were, setting up the jupyter notebook, the 100MB github 
 this was overcame by reducing the python version in streamlit, creating a file and pushing it to github with a python version less than 3.12
 
 People involved includes;
-Ifeanyichukwu St Mavis Chinaecherem - 23/EG/EE/086 - Mavis1906
-Bassey loyalty Asuquo - 23/EG/EE/006 - loyaltee21
-Orok, Ubongabasi Chrysanthus - 23/EG/EE/066 -
-Abasienyene Aniekan John - 23/EG/EE/026 - Abasienyenepatrick100-arch
-Godswill Emmanuel Okono - 23/EG/EE/076 -godswillw116-del
+Ifeanyichukwu St Mavis Chinaecherem - 23/EG/EE/086 - Mavis1906.
+Bassey loyalty Asuquo - 23/EG/EE/006 - loyaltee21.
+Orok, Ubongabasi Chrysanthus - 23/EG/EE/066 -,
+Abasienyene Aniekan John - 23/EG/EE/026 - Abasienyenepatrick100-arch.
+Godswill Emmanuel Okono - 23/EG/EE/076 -godswillw116-del.
