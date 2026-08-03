@@ -17,3 +17,4 @@ Abasienyene Aniekan John - 23/EG/EE/026 - Abasienyenepatrick100-arch.
 Godswill Emmanuel Okono - 23/EG/EE/076 -godswillw116-del.
 Emmanuel, Elisha Success - 23/EG/EE/106 - Bhigdwag12
 Emmanuel Udak Uko - 23/EG/EE/056 - emmako4sure
+Gideon udo Ekanem - 2/EG/EE/016
