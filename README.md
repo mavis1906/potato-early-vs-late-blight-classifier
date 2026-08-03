@@ -11,7 +11,7 @@ this was overcame by reducing the python version in streamlit, creating a file a
 
 People involved includes;
 Ifeanyichukwu St Mavis Chinaecherem - 23/EG/EE/086 - Mavis1906.
-Bassey loyalty Asuquo - 23/EG/EE/006 - loyaltee21.
+Bassey Loyalty Asuquo - 23/EG/EE/006 - loyaltee21.
 Orok, Ubongabasi Chrysanthus - 23/EG/EE/066 -,
 Abasienyene Aniekan John - 23/EG/EE/026 - Abasienyenepatrick100-arch.
 Godswill Emmanuel Okono - 23/EG/EE/076 -godswillw116-del.
