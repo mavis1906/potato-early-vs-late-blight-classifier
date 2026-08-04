@@ -15,7 +15,7 @@ Bassey Loyalty Asuquo - 23/EG/EE/006 - loyaltee21.
 Orok, Ubongabasi Chrysanthus - 23/EG/EE/066 -,
 Abasienyene Aniekan John - 23/EG/EE/026 - Abasienyenepatrick100-arch.
 Godswill Emmanuel Okono - 23/EG/EE/076 -godswillw116-del.
-Emmanuel Elisha Success - 23/EG/EE/106 -Bhigdawg12
+Emmanuel, Elisha Success - 23/EG/EE/106 -Bhigdawg12
 Emmanuel Udak Uko - 23/EG/EE/056 - emmako4sure.
 Gideon udo Ekanem - 23/EG/EE/016.
 Tom, Odudu-Abasi Ime- 23/EG/EE/096
